@@ -10,7 +10,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=prashant-900&label=Profile%20Views&color=6366f1&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/prashant-900?style=for-the-badge&color=6366f1)](https://github.com/prashant-900)
 
 </div>
@@ -110,7 +109,6 @@ const prashant = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats-flame.vercel.app/?user=prashant-900&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -154,7 +152,6 @@ const prashant = {
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-![Snake animation](https://github.com/prashant-900/prashant-900/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
