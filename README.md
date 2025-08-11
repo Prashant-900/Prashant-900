@@ -26,18 +26,6 @@ const prashant = {
 };
 ```
 
-## 🌱 Currently Learning
-
-<div align="center">
-
-| Technology | Progress | Status |
-|------------|----------|--------|
-| **LangGraph** | ████░░░░░░ 40% | 🔥 Active |
-| **CI/CD Pipelines** | █░░░░░░░░░ 10% | 📚 Learning |
-| **Golang** | ███████░░░ 70% | 🚀 Exploring |
-
-</div>
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
